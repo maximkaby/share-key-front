@@ -1,0 +1,29 @@
+// This is the top-level scss file. Import all other files in here.
+@import 'home';
+
+.name {
+  margin-bottom: 10px;
+}
+
+.secret {
+  margin-bottom: 10px;
+}
+
+.partSecrets {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  &__item {
+    display: flex;
+  }
+}
+
+.input {
+  display: flex;
+  input {
+    margin-left: 10px;
+  }
+}
+
+.item {
+  margin-bottom: 10px;
+}

@@ -1,0 +1,6 @@
+//settings
+export const ALERT = 'ALERT';
+export const CLOSE_ALERT = 'CLOSE_ALERT';
+export const SET_CONNECTED_STATUS = 'SET_CONNECTED_STATUS';
+export const SET_STATUS_SOCKET = 'SET_STATUS_SOCKET';
+export const SET_RECONNECT_STATUS = 'SET_RECONNECT_STATUS';
